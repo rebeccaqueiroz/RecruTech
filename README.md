@@ -10,3 +10,6 @@ Este repositório guarda o meu código final. Importante destacar que, ao longo 
 Curti demais esse desafio, foi uma oportunidade incrível para aprender e aprimorar minhas habilidades nas linguagens.
 
 Valeu, Gi e Alura! Até o próximo desafio!
+
+
+[Clique aqui](https://rebeccaqueiroz.github.io/RecruTech/#) para conferir o resultado final desse projeto.
