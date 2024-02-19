@@ -1,5 +1,5 @@
 # 7 Days of Code - HTML e CSS
-![logotipos](file:///C:/Users/brsol/OneDrive/%C3%81rea%20de%20Trabalho/REBECCA%20-%20PROGRAMA%C3%87%C3%83O/7DaysOfCode/HTML%20E%20CSS%20-%20GI%20MOELLER%20GIRL%20CODING/img/logotipos-linguagens.jpg)
+![logotipos](./img/logotipos-linguagens.jpg)
 
 Participei com muito entusiasmo desse incrível desafio de 7 dias de código, uma iniciativa desenvolvida pela talentosa Gi Moeller em colaboração com a Alura.
 
